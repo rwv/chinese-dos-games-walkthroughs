@@ -1,7 +1,11 @@
 **英文名:** Prehistorik
+
 **类型:** 动作游戏
+
 **发行年:** 1991
+
 **平台:** Amiga/PC
+
 **操作系统:** Amiga/DOS
 
 ![PC原人](./e124e2e0ba834d0f27d84524ccf857b4bc8ba14ff1caac027ec27d24591cfa06.jpg)
